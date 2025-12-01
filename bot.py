@@ -1,7 +1,7 @@
 from aiogram import Bot, Dispatcher, executor, types
 import os
 
-API_TOKEN = os.getenv("API_TOKEN")  # токен хранится в переменных окружения
+API_TOKEN = os.getenv("8230290259:AAFDTK9wV3L4dJpyYY_ykrZsyy5cahX5_Uk")  # токен хранится в переменных окружения
 
 bot = Bot(token=API_TOKEN)
 dp = Dispatcher(bot)
